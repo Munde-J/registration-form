@@ -1,0 +1,132 @@
+body{
+     background-image: linear-gradient(to right,rgb(235, 161, 26),rgb(238, 167, 220));
+     /* height: 500vh; */
+     justify-content: center;
+     height:500px ;
+     
+
+ }
+ .container{
+     width: 68%;
+     height: 500px;
+     display: flex;
+     background-color: white;
+     margin-left: auto;
+     margin-right: auto;
+     margin-top: 5%;
+
+     
+}
+.main1{
+    background-color: rgb(250, 194, 91);
+    height: 500px;
+    width: 350px;
+    /* padding: 150px; */
+
+}
+/* .main2{
+    margin-left: 30%; */
+/* } */
+
+img{
+    margin-top: 14%;
+    /* padding-left: 20%; */
+    margin-right: 20%;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+
+}
+  /* h1{
+     margin-bottom: 30px; 
+     font-family:serif;
+     
+     
+     color: rgb(241, 149, 28); 
+ }
+h2{
+    margin-bottom: 200px; 
+    
+ 
+}  */
+
+
+.main1 h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: hsla(32, 82%, 52%, 0.925);
+    /* margin-bottom: 100px;
+    margin-right: 80px; */
+    
+} 
+
+/* .main2 h3{
+    margin-left: 18%;
+    margin-bottom: 700%;
+} */
+.Crtaccount{
+    margin-right: 10%;
+    /* margin-top: 15%; */
+    background-color: rgb(224, 106, 240);
+    color: rgb(243, 236, 236);
+    width: 43%;
+    height: 90%;
+    margin-top: 10%;
+
+
+
+}
+form{
+    margin-left: 20%;
+}
+.registration{
+     display: flex;
+    padding-right: 20%;  
+}
+.username{
+    margin-left: 10%;
+}
+.policy{
+    margin-bottom: 5%;
+    display: inline;
+    width: 2px;
+    height: 2px;
+    
+} 
+.site{
+    margin-top: 10%;
+    font-size: 15px;
+}
+
+.main2 p{
+    margin-left: 50%;
+
+}
+.one{
+    background-color: rgba(116, 121, 119, 0.829);
+    width: 70%;
+    height: 30%;
+}
+.container h1{
+    margin-left: 20px;
+    font-size: 20px;
+    font-family: 'Updock', cursive;
+}
+.container h2{
+    color: rgb(167, 88, 15);
+    margin-left: 20px;
+}
+.container h3{
+    color: rgb(243, 124, 45);
+    margin-left: 15px;
+    font-size: 14px;
+}
+.google{
+    background-color: rgb(119, 119, 219);
+}
+
+
+
+
+
+
